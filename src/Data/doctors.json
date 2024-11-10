@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. John Doe",
+      "specialization": "Pediatrics",
+      "experience": "10 years",
+      "consultation_fee": "$50",
+      "availability": "Available"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Bimo Prasetyo",
+      "specialization": "Psychology",
+      "experience": "8 years",
+      "consultation_fee": "$60",
+      "availability": "Unavailable"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Uwais Azzuhdi",
+      "specialization": "General",
+      "experience": "15 years",
+      "consultation_fee": "$40",
+      "availability": "Available"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Retno Wulan ",
+      "specialization": "General",
+      "experience": "12 years",
+      "consultation_fee": "$45",
+      "availability": "Available"
+    }
+  ]
+  
