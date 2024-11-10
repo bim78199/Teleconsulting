@@ -1,0 +1,12 @@
+1) How to Set Up:
+. First, I need to understand the assigned task.
+. Create a sketch or UI design for the task.
+. Write the code.
+
+2) Run the Application:
+. On the home page, there will be four feature buttons.
+. To view all available doctors, click "View Doctors."
+. To see a specific category, click one of the three available category buttons.
+. After clicking a button, you will navigate to the Doctor Listing Page.
+. On this page, you will see information about each doctor.
+. At the top, there are filters for specialization, experience, and availability.
